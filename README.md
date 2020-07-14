@@ -1,1 +1,1 @@
-Yazar : Batuhan ÖZALP
+Yazar : Batuhan :OZALP
