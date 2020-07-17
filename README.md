@@ -1,3 +1,0 @@
-Yazar : Batuhan ÖZALP
-Readme Coming Soon...
-
