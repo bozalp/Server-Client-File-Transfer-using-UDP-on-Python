@@ -28,4 +28,4 @@ Server kısmında bulunan bir dosyayı kendinize almak için bu komut kullanıl�
 Client tarafındaki dosyayı server tarafına göndermek için kullanılır. **GET** kısmından tek farkı server ve client isimlerinin yerlerinin değişmesidir. Gönderim ve alım kısmı üst kısımda anlatıldığının tam tersi durumdadır. 
 
 **5. CLOSE** >> 
-Client tarafından bu komut yazılırsa servera **kapat** mesajı iletilir ve iki tarafın bağlantısı kesilir ve progrmadan çıkış yapılır. 
+Client tarafından bu komut yazılırsa servera **kapat** mesajı iletilir ve iki taraf bağlantısı kesilir ve programdan çıkış yapılır. 
